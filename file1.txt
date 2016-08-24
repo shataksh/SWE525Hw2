@@ -6,3 +6,5 @@ Favorite Resturant : Bill's cafe
 
 Favorite Movie : Titanic
 
+Favorite Color : Blue
+
